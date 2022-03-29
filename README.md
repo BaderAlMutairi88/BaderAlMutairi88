@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BaderAlMutairi88
-- 👀 I’m interested in Data and Programming
-- 🌱 I’m currently learning Data analysis
+- 👀 I’m interested in Reverse Engineering 
+- 🌱 I’m currently learning 86x Assembly
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
